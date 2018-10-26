@@ -17,6 +17,6 @@ Task:
 --------------------------
 
  - C++11 compatible compiler (g++ 4.7/4.8)
- - GNU make
+ 
 
 
